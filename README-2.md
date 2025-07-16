@@ -101,10 +101,6 @@ var
 
 ## Author
 
-Your Name
+Eliza Tuta
 
 ---
-
-## License
-
-MIT License (or specify your preferred license)
